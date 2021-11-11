@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "vHruflJMl5OY2DwH7TpoZWmKHP02EGC/ov/hEXkvdwft3ANaHcklrcfm8EQrPH94riWn1HEaJf5P+5Q4iLLA5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\austin.hooker\\MiscProjects\\VenronX\\VenronX_Gauges\\VenronX_Gauges.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\austin.hooker\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\austin.hooker\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\austin.hooker\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\austin.hooker\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\austin.hooker\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\austin.hooker\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\austin.hooker\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+C:\Users\austin.hooker\MiscProjects\VenronX\VenronX_Gauges\bin\Debug\netcoreapp2.1\VenronX_Gauges.deps.json
+C:\Users\austin.hooker\MiscProjects\VenronX\VenronX_Gauges\bin\Debug\netcoreapp2.1\VenronX_Gauges.dll
+C:\Users\austin.hooker\MiscProjects\VenronX\VenronX_Gauges\bin\Debug\netcoreapp2.1\VenronX_Gauges.pdb
+C:\Users\austin.hooker\MiscProjects\VenronX\VenronX_Gauges\obj\Debug\netcoreapp2.1\VenronX_Gauges.csproj.AssemblyReference.cache
+C:\Users\austin.hooker\MiscProjects\VenronX\VenronX_Gauges\obj\Debug\netcoreapp2.1\VenronX_Gauges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\austin.hooker\MiscProjects\VenronX\VenronX_Gauges\obj\Debug\netcoreapp2.1\VenronX_Gauges.AssemblyInfoInputs.cache
+C:\Users\austin.hooker\MiscProjects\VenronX\VenronX_Gauges\obj\Debug\netcoreapp2.1\VenronX_Gauges.AssemblyInfo.cs
+C:\Users\austin.hooker\MiscProjects\VenronX\VenronX_Gauges\obj\Debug\netcoreapp2.1\VenronX_Gauges.csproj.CoreCompileInputs.cache
+C:\Users\austin.hooker\MiscProjects\VenronX\VenronX_Gauges\obj\Debug\netcoreapp2.1\VenronX_Gauges.dll
+C:\Users\austin.hooker\MiscProjects\VenronX\VenronX_Gauges\obj\Debug\netcoreapp2.1\VenronX_Gauges.pdb
